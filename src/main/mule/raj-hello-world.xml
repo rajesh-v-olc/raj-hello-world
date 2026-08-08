@@ -10,7 +10,7 @@
         output application/json
         ---
         {
-          "Hello": "Raj"
+          "Hello": "Rajesh"
         }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
