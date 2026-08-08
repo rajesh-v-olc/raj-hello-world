@@ -1,0 +1,75 @@
+{
+  "basicConstraints": 3,
+  "criticalExtensionOIDs": [
+    "sodales",
+    "tempor"
+  ],
+  "extendedKeyUsage": [
+    "a",
+    "sodales",
+    "tempor"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "sed"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Alex",
+      "type": 84
+    }
+  ],
+  "issuerDN": {
+    "commonName": "ac",
+    "name": "Alyce"
+  },
+  "issuerUniqueID": [
+    false,
+    false
+  ],
+  "issuerX500Principal": {
+    "name": "Clement"
+  },
+  "keyUsage": [
+    true,
+    false,
+    false
+  ],
+  "name": "Amy",
+  "nonCriticalExtensionOIDs": [
+    "sodales",
+    "ac",
+    "felis"
+  ],
+  "notAfter": "2022-08-29",
+  "notBefore": "2021-12-25",
+  "publicKey": {
+    "algorithm": "dui",
+    "modulus": 52,
+    "params": 90,
+    "publicKey": "semper"
+  },
+  "serialNumber": 82,
+  "serialNumberObject": {
+    "serialNumber": 69
+  },
+  "sigAlgName": "adipiscing",
+  "sigAlgOID": "pulvinar",
+  "subjectAlternativeNames": [
+    {
+      "name": "Allena",
+      "type": 31
+    }
+  ],
+  "subjectDN": {
+    "commonName": "lectus",
+    "name": "Analisa"
+  },
+  "subjectX500Principal": {
+    "name": "Abe"
+  },
+  "type": "molestie",
+  "version": 45
+}
